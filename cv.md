@@ -17,3 +17,8 @@ Basic knowledge of:
 * Python
 * Git
 * SQL
+
+## Languages:
+Russian - native
+
+English - C1
