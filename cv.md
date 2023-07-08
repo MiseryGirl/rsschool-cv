@@ -18,6 +18,14 @@ Basic knowledge of:
 * Git
 * SQL
 
+## Education and courses
+* ***University***: International Academy of Business and New Technologies (MUBiNT), Bachelor's degree, Faculty of Linguistics and Translation, 2016-2021
+* ***University:*** Tomsk State University of Control Systems and Radioelectronics, Informatics and Computer Engineering, since 2022
+* ***Courses***:
+    * SkillBox: ["Website layouts"](https://skillbox.ru/course/weblayout/) (in progress)
+    * Hexlet: ["preliminary course Python-developer"] (https://pre.hexlet.io/python)
+    * Hexlet: ["preliminary course Frontend-developer"] (https://pre.hexlet.io/frontend)
+
 ## Code example:
 *Code example from Codewars: [Handshake problem](https://www.codewars.com/kata/5574835e3e404a0bed00001b)*
 ```
