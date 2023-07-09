@@ -5,6 +5,7 @@
 * **Location:** Russia, Rybinsk
 * **e-mail:** Jessy.Brennan-696@yandex.ru
 * **GitHub:** MiseryGirl
+* * **Discord**: MiseryGirl (@MiseryGirl)
 
 ## About myself
 
