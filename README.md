@@ -1,1 +1,1 @@
-# rsschool-cv
+[Deploy](https://MiseryGirl.github.io/rsschool-cv/)
