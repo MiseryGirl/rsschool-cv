@@ -1,1 +1,1 @@
-[My curriculum vitae](https://MiseryGirl.github.io/rsschool-cv/cv)
+[My curriculum vitae](https://MiseryGirl.github.io/rsschool-cv)
