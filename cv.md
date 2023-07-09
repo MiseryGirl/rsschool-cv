@@ -6,6 +6,10 @@
 * **e-mail:** Jessy.Brennan-696@yandex.ru
 * **GitHub:** MiseryGirl
 
+## About myself
+
+I've never worked in IT-industry, but since childhood I've liked working with computers. After school I went to University to study programming, but something went wrong, and I changed my education to translation. But a year ago I realized that IT is totally my sphere, so now I'm studying programming at University again. I'm going to learn front-end development and then work in this sphere.
+
 ## Skills
 
 Good knowledge of:
