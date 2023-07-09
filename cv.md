@@ -30,6 +30,7 @@ Basic knowledge of:
     * SkillBox: ["Website layouts"](https://skillbox.ru/course/weblayout/) (in progress)
     * Hexlet: ["preliminary course Python-developer"] (https://pre.hexlet.io/python)
     * Hexlet: ["preliminary course Frontend-developer"] (https://pre.hexlet.io/frontend)
+* ***Codewars profile***: [https://www.codewars.com/users/rsschool_d39be6c904dbf68f](https://www.codewars.com/users/MiseryGirl)
 
 ## Code example:
 *Code example from Codewars: [Handshake problem](https://www.codewars.com/kata/5574835e3e404a0bed00001b)*
